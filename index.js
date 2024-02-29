@@ -9,7 +9,7 @@ const string1 = 'My favorite dessert is jello';
 
 //Hi Eric, this is our fun test
 //Hi Josh, How's Ragnar?
-
+//Pushing to create a conflict
 /*******************************************
     Iteration 2 | Concatenate Characters
 *******************************************/
