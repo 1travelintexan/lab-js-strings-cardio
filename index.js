@@ -7,8 +7,7 @@ const string1 = "My favorite dessert is jello";
 
 // Your code here...
 
-
-
+//Hi Eric, this is our fun test
 
 /*******************************************
     Iteration 2 | Concatenate Characters
@@ -19,9 +18,6 @@ const string2 = "ABCDEFGHJKLO";
 
 // Your code here...
 
-
-
-
 /*****************************************************
     Iteration 3 | Repeat a String and Concatenate
 *****************************************************/
@@ -31,19 +27,15 @@ const string3 = "Na";
 
 // Your code here...
 
-
-
-
 /*******************************************
        Iteration 4 | Fruite Slice
 *******************************************/
 // Using the string method .slice(), access and print to the console the name of your favorite fruit from a given string
 
-const fruit = "banana apple mango orange lemon kiwi watermelon grapes pear pineapple";
+const fruit =
+  "banana apple mango orange lemon kiwi watermelon grapes pear pineapple";
 
 // Your code here...
-
-
 
 /***************************************************
     Iteration 5 | Check If Strings Include a Word
@@ -55,15 +47,11 @@ const fruit = "banana apple mango orange lemon kiwi watermelon grapes pear pinea
 const funnyHeadline1 = "Breathing oxygen linked to staying alive";
 const funnyHeadline2 = "Students Cook & Serve Grandparents";
 
-
 // Check the first headline
 // Your code here ...
 
-
 // Check the second headline
 // Your code here ...
-
-
 
 /*******************************************
        Iteration 6 | String Length
@@ -72,10 +60,8 @@ const funnyHeadline2 = "Students Cook & Serve Grandparents";
 
 const string4 = "zEAWrTC9EgtxmK9w1";
 
-
 // a) Print the string length
 // Your code here ...
-
 
 // b) Print the last character in the string
 // Your code here ...
